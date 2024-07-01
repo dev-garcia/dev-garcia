@@ -1,9 +1,9 @@
 # Tudo bem? Eu sou Cristian Garcia, entusiasta de programação e tecnologia! 👋
 
 # 🚀 Sobre mim
-🔭 Graduado em Análise e Desenvolvilmento de Sistema e realizando pós em Engenharia da Qualidade de Software. Atuo como desenvolvedor front-end empenhado em expandir minhas habilidades no back-end, visando me tornar um profissional full-stack ético e completo. Estou trabalhando em projetos práticos que envolvem integração entre o front-end e o back-end, aplicando boas práticas de programação e priorizando a segurança e a privacidade dos usuários, onde também recebo treinamentos e mentoria em soft skills focadas em liderança. Estou animado com a oportunidade de desenvolver soluções completas e eficientes.<br />
-👩‍💻 Estágio e Trabalhando como freelancer
-💬 Disponível para interação
+🔭 Graduado em Análise e Desenvolvilmento de Sistema e realizando pós em Engenharia da Qualidade de Software. Atuo como desenvolvedor full-stac. Estou trabalhando na Residuum, onde também recebo treinamentos e mentoria em soft skills focadas em liderança. Estou animado com a oportunidade de desenvolver soluções completas e eficientes.<br />
+👩‍💻 Dev. Full Stack na Residuum e Trabalhando com freelancers.
+💬 Disponível para interação.
 📫 Manaus - AM, Brasil.
 ⚡ Estou apto aos trabalhos!
 
@@ -30,7 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![dev-garcia](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-garcia&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-garcia&layout=compact)
 
 
 ---
