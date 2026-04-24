@@ -41,9 +41,6 @@
   <a href="https://discordapp.com/users/cristian._.garcia" target="_blank" title="Discord">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Discord logo" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5592986032632" target="_blank" title="WhatsApp">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="WhatsApp logo" />
-  </a>
   <a href="mailto:garcia.ac.cristian@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Gmail logo" />
   </a>
